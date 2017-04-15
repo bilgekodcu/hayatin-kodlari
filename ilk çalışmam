@@ -1,0 +1,3 @@
+alert("elif");
+var firstname="elif";
+firstname;
